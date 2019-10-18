@@ -6,4 +6,4 @@ Hallo World.
 
 
 A Picture:
-![Dagobert](https://github.com/codingbychanche/test/dagobert.jpg)
+![Dagobert](https://github.com/codingbychanche/test/dagobert.png)
